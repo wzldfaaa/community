@@ -48,6 +48,27 @@
 		    <artifactId>spring-boot-devtools</artifactId>
 		    <optional>true</optional>
 		</dependency>
+		
+		<!-- okhttp -->
+		<dependency>
+		  <groupId>com.squareup.okhttp3</groupId>
+		  <artifactId>okhttp</artifactId>
+		  <version>3.14.1</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+		<dependency>
+		    <groupId>com.alibaba</groupId>
+		    <artifactId>fastjson</artifactId>
+		    <version>1.2.62</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
+		<dependency>
+		    <groupId>org.jsoup</groupId>
+		    <artifactId>jsoup</artifactId>
+		    <version>1.12.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
