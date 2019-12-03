@@ -1,0 +1,10 @@
+server.port=8081
+
+github.client.id=15abebe250650bd9cc22
+github.client.secret=df86c5493ca77787842da7ec6c4b54f139efb445
+github.redirect.uri=http://localhost:8081/callback
+
+spring.datasource.url=jdbc:h2:~/test
+spring.datasource.driver-class-name=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=

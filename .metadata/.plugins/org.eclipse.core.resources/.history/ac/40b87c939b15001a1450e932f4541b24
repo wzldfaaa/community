@@ -1,0 +1,15 @@
+server.port=8081
+
+github.client.id=15abebe250650bd9cc22
+github.client.secret=df86c5493ca77787842da7ec6c4b54f139efb445
+github.redirect.uri=http://localhost:8081/callback
+
+#spring.datasource.url=jdbc:h2:mem:testdb
+#spring.datasource.driver-class-name=org.h2.Driver
+#spring.datasource.username=sa
+#spring.datasource.password=
+
+spring.datasource.url = jdbc:mysql://localhost:3306/community?useUnicode=true&useSSL=false
+spring.datasource.username = root
+spring.datasource.password = 123456
+spring.datasource.driverClassName = com.mysql.jdbc.Driver

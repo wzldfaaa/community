@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.avojak.plugin.hydrogen.core.launchConfigurationType1">
+<stringAttribute key="BASE_DIRECTORY" value="D:\h2"/>
+<booleanAttribute key="ENABLE_TRACING" value="false"/>
+<booleanAttribute key="IF_EXISTS" value="false"/>
+<booleanAttribute key="PG_ALLOW_OTHERS" value="false"/>
+<booleanAttribute key="PG_DAEMON" value="false"/>
+<stringAttribute key="PG_PORT" value="5435"/>
+<booleanAttribute key="START_PG" value="true"/>
+<booleanAttribute key="START_TCP" value="true"/>
+<booleanAttribute key="START_WEB" value="true"/>
+<booleanAttribute key="TCP_ALLOW_OTHERS" value="false"/>
+<booleanAttribute key="TCP_DAEMON" value="false"/>
+<stringAttribute key="TCP_PORT" value="9092"/>
+<booleanAttribute key="TCP_SHUTDOWN_FORCE" value="true"/>
+<booleanAttribute key="TCP_SSL" value="true"/>
+<booleanAttribute key="WEB_ALLOW_OTHERS" value="false"/>
+<booleanAttribute key="WEB_BROWSER" value="true"/>
+<booleanAttribute key="WEB_DAEMON" value="false"/>
+<stringAttribute key="WEB_PORT" value="8082"/>
+<booleanAttribute key="WEB_SSL" value="true"/>
+</launchConfiguration>

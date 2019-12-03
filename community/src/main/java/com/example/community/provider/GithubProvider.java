@@ -11,7 +11,7 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.example.community.dto.AccessTokenDTO;
-import com.example.community.dto.GithubUser;
+import com.example.community.model.GithubUser;
 
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;

@@ -1,2 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicLong"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.example.community.model.Test"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="okhttp3.MediaType"/>
+<fullyQualifiedTypeName name="okhttp3.RequestBody"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.example.community.provider.GithubProvider"/>
+<fullyQualifiedTypeName name="com.example.community.dto.AccessTokenDTO"/>
+<fullyQualifiedTypeName name="okhttp3.OkHttpClient"/>
+<fullyQualifiedTypeName name="okhttp3.Request"/>
+<fullyQualifiedTypeName name="okhttp3.Response"/>
+<fullyQualifiedTypeName name="org.springframework.http.codec.json.Jackson2JsonDecoder"/>
+<fullyQualifiedTypeName name="com.example.community.dto.GithubUser"/>
+<fullyQualifiedTypeName name="com.alibaba.fastjson.JSON"/>
+<fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+</qualifiedTypeNameHistroy>

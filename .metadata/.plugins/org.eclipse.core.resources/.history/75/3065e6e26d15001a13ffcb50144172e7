@@ -1,0 +1,11 @@
+server.port=8081
+
+github.client.id=15abebe250650bd9cc22
+github.client.secret=df86c5493ca77787842da7ec6c4b54f139efb445
+github.redirect.uri=http://localhost:8081/callback
+
+##数据库连接设置
+spring.datasource.url = jdbc:h2:mem:dbtest  #配置h2数据库的连接地址
+spring.datasource.username = sa  #配置数据库用户名
+spring.datasource.password = 123  #配置数据库密码
+spring.datasource.driverClassName =org.h2.Driver  #配置JDBC Driver
